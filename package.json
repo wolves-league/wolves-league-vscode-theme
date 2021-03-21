@@ -1,0 +1,21 @@
+{
+    "name": "wolves-league-theme",
+    "displayName": "wolves-league-theme",
+    "description": "Wolves League official color theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Wolves League Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Wolves League Theme-color-theme.json"
+            }
+        ]
+    }
+}
