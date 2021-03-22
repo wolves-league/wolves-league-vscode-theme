@@ -1,21 +1,47 @@
 {
-    "name": "wolves-league-theme",
-    "displayName": "wolves-league-theme",
-    "description": "Wolves League official color theme",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.54.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Wolves League Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Wolves League Theme-color-theme.json"
-            }
-        ]
-    }
+  "name": "wolves-league",
+  "displayName": "Wolves League Theme",
+  "description": "Wolves League official color theme. It is focused on the color red and alongside the color red, it is focused on using pastel colors. There is 2 variants, dark where the background is dark grey, and black where the background is pure black.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DanielLMiranda/wolves-league-vscode-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/DanielLMiranda/wolves-league-vscode-theme/issues"
+  },
+  "galleryBanner": {
+    "color": "#1d1f20",
+    "theme": "dark"
+  },
+  "icon": "images/wolves-league-logo.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Wolves League",
+    "Wolves League Theme",
+    "dark theme",
+    "black theme",
+    "dark",
+    "black",
+    "red"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Wolves League Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wolves-league-dark.json"
+      },
+      {
+        "label": "Wolves League Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wolves-league-black.json"
+      }
+    ]
+  }
 }
