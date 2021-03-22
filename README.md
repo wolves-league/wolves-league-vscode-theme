@@ -1,4 +1,4 @@
-# Wolves League Visual Studio Code Theme Guide
+# Wolves League Visual Studio Code theme
 
 Official **Wolves League** Vscode theme.
 
