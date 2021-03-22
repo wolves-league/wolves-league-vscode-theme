@@ -1,7 +1,8 @@
 {
   "name": "wolves-league",
   "displayName": "Wolves League Theme",
-  "description": "Wolves League official color theme. It is focused on the color red and alongside the color red, it is focused on using pastel colors. There is 2 variants, dark where the background is dark grey, and black where the background is pure black.",
+  "description": "Wolves League theme has a red accent color with grey backgrounds and most of the colors are with pastel tones. There are 2 variants, dark with grey background and black with pure black background",
+  "publisher": "WolvesLeague",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.54.0"
@@ -43,5 +44,6 @@
         "path": "./themes/wolves-league-black.json"
       }
     ]
-  }
+  },
+  "dependencies": {}
 }
