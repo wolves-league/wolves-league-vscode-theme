@@ -5,7 +5,9 @@
 
 <p align="center">Since the Discord server didn't work (yet), I've been using Wolves League as a brand. I created a logo and chose the colors, which is mostly shades of red for the logo and a dark grey background.</p>
 
-<img src="https://github.com/DanielLMiranda/wolves-league-vscode-theme/blob/main/wolves-league-logo.png" align="center">
+<p align="center">
+  <img src="https://github.com/DanielLMiranda/wolves-league-vscode-theme/blob/main/wolves-league-logo.png" width="300">
+</p>
 
 <h2 align="center">Why I created a Vscode theme?</h2>
 <p align="center">Well, why not? But to be more precise, I like to have an identity, I really like the color red and I want to have a bit of my personality in my Vscode, since I spend a lot of time in it, I might as well make it more confortable.</p>
