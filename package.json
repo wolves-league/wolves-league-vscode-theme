@@ -3,16 +3,16 @@
   "displayName": "Wolves League Theme",
   "description": "Wolves League theme has a red accent color with grey backgrounds and most of the colors are with pastel tones. There are 2 variants, dark with grey background and black with pure black background",
   "publisher": "WolvesLeague",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.54.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/DanielLMiranda/wolves-league-vscode-theme"
+    "url": "https://github.com/WolvesLeague/wolves-league-vscode-theme"
   },
   "bugs": {
-    "url": "https://github.com/DanielLMiranda/wolves-league-vscode-theme/issues"
+    "url": "https://github.com/WolvesLeague/wolves-league-vscode-theme/issues"
   },
   "galleryBanner": {
     "color": "#1d1f20",
