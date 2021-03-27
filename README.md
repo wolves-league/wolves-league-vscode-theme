@@ -11,9 +11,9 @@ There are 2 variants:
 - **Dark** - Dark grey background
 - **Black** - Pure black background
 
-![Wolves League Dark Theme](https://raw.githubusercontent.com/DanielLMiranda/wolves-league-vscode-theme/main/images/wolves-league-dark-screenshot.png)
+![Wolves League Dark Theme](https://github.com/WolvesLeague/wolves-league-vscode-theme/blob/main/images/wolves-league-dark-screenshot.png)
 
-![Wolves League Dark Theme](https://raw.githubusercontent.com/DanielLMiranda/wolves-league-vscode-theme/main/images/wolves-league-black-screenshot.png)
+![Wolves League Black Theme](https://raw.githubusercontent.com/WolvesLeague/wolves-league-vscode-theme/main/images/wolves-league-black-screenshot.png)
 
 ## Issues and suggestions
 
