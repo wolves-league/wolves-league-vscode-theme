@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.1.2] - 2021-03-27
+
+- Fixed dark theme screenshot URL
+
+## [1.1.1] - 2021-03-27
+
+- Updated screenshots URLs
+
 ## [1.1.0] - 2021-03-26
 
 - Added settings modified item indicator color
