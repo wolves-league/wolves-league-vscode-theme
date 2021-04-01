@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.1.3] - 2021-03-31
+
+- Fixed GitHub issues URL
+
 ## [1.1.2] - 2021-03-27
 
 - Fixed dark theme screenshot URL

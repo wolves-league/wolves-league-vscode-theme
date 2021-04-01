@@ -17,4 +17,4 @@ There are 2 variants:
 
 ## Issues and suggestions
 
-For issues and suggestions use [GitHub Issues](https://github.com/DanielLMiranda/wolves-league-vscode-theme/issues).
+For issues and suggestions use [GitHub Issues](https://github.com/WolvesLeague/wolves-league-vscode-theme/issues).
