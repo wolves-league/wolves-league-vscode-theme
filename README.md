@@ -9,6 +9,8 @@
 
 A beautiful theme for those who like the color red. Red is used as accent color paired with grey and black backgrounds, so it's not tiring to look at.
 
+### **If you like this theme, please consider evaluating it in the Visual Studio Marketplace**
+
 ## Colors and variants
 
 There are 2 variants:
