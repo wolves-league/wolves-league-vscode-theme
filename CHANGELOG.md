@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.1.5] - 2021-08-12
+
+- Makes the scrollbar and minimap more visible
+
 ## [1.1.4] - 2021-07-25
 
 - Fixed the lack of transparency in the scroll bar slider
