@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.2.0] - 2021-09-12
+
+- Changes the terminal colors to better match the Wolves League color scheme
+- Changes the minimap selection highlight color to white, since the previous red color could be easily confused with an error in the code
+- Changes the minimap and scroll colors to make it more visible in the black theme
 ## [1.1.5] - 2021-08-12
 
 - Makes the scrollbar and minimap more visible

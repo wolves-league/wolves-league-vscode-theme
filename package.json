@@ -3,7 +3,7 @@
   "displayName": "Wolves League Theme",
   "description": "A beautiful theme for those who like the color red. Red is used as accent color paired with grey and black backgrounds, so it's not tiring to look at.",
   "publisher": "WolvesLeague",
-  "version": "1.1.4",
+  "version": "1.2.0",
   "engines": {
     "vscode": "^1.54.0"
   },
