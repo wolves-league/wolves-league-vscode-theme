@@ -7,7 +7,7 @@
 
 ---
 
-A beautiful theme for those who like the color red. Red is used as accent color paired with grey and black backgrounds, so it's not tiring to look at.
+Dark gray and black theme with red as accent color.
 
 ### **If you like this theme, please consider evaluating it in the Visual Studio Marketplace**
 
@@ -15,7 +15,7 @@ A beautiful theme for those who like the color red. Red is used as accent color 
 
 There are 2 variants:
 
-- **Dark** - Dark grey background
+- **Dark** - Dark gray background
 - **Black** - Pure black background
 
 ![Wolves League Dark Theme](https://raw.githubusercontent.com/WolvesLeague/wolves-league-vscode-theme/main/images/wolves-league-dark-screenshot.png)
