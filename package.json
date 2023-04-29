@@ -1,9 +1,9 @@
 {
   "name": "wolves-league",
   "displayName": "Wolves League Theme",
-  "description": "A beautiful theme for those who like the color red. Red is used as accent color paired with grey and black backgrounds, so it's not tiring to look at.",
+  "description": "Dark gray and black theme with red as accent color",
   "publisher": "WolvesLeague",
-  "version": "1.2.0",
+  "version": "2.0.0",
   "engines": {
     "vscode": "^1.54.0"
   },
@@ -36,12 +36,12 @@
       {
         "label": "Wolves League Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/wolves-league-dark.json"
+        "path": "./themes/wolves-league-dark-color-theme.json"
       },
       {
         "label": "Wolves League Black",
         "uiTheme": "vs-dark",
-        "path": "./themes/wolves-league-black.json"
+        "path": "./themes/wolves-league-black-color-theme.json"
       }
     ]
   }
