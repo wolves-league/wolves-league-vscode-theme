@@ -3,7 +3,7 @@
   "displayName": "Wolves League Theme",
   "description": "Dark gray and black theme with red as accent color",
   "publisher": "WolvesLeague",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "engines": {
     "vscode": "^1.54.0"
   },

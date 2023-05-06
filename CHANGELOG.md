@@ -1,5 +1,10 @@
 # Change Log
 
+## [2.1.0] - 2023-05-06
+
+- Simplifies syntax highlighting
+- Removes incorrect colors
+
 ## [2.0.0] - 2023-04-29
 
 - Complete overhaul based on [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
