@@ -1,5 +1,13 @@
 # Change Log
 
+## [2.2.0] - 2023-05-06
+
+- Adds new colors for:
+  - inputOption.activeBorder
+  - peekViewEditor.matchHighlightBorder
+  - peekViewResult.matchHighlightBackground
+  - peekViewResult.selectionBackground
+
 ## [2.1.0] - 2023-05-06
 
 - Simplifies syntax highlighting
