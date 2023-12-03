@@ -1,5 +1,20 @@
 # Change Log
 
+## [2.3.0] - 2023-12-03
+
+- Adds Activity Bar border
+- Changes Indent Guide colors to default
+- Changes Panels background color
+- Adds Panels border
+- Changes Scrollbar shadow to default
+- Adds Sidebar border
+- Adds Status Bar border
+- Changes Tab active border position to top
+- Adds Tab border
+- Changes Terminal background
+- Adds Title Bar border
+- Fixes File Explorer hover color on Black theme
+
 ## [2.2.0] - 2023-05-06
 
 - Adds new colors for:
