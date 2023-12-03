@@ -14,6 +14,7 @@
 - Changes Terminal background
 - Adds Title Bar border
 - Fixes File Explorer hover color on Black theme
+- Changes Drop Background color
 
 ## [2.2.0] - 2023-05-06
 
