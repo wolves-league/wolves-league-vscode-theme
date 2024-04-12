@@ -1,9 +1,9 @@
 {
   "name": "wolves-league",
   "displayName": "Wolves League Theme",
-  "description": "Dark gray and black theme with red as accent color",
+  "description": "Dark gray theme with red as accent color",
   "publisher": "WolvesLeague",
-  "version": "2.3.0",
+  "version": "3.0.0",
   "engines": {
     "vscode": "^1.54.0"
   },
@@ -26,9 +26,7 @@
     "Wolves League",
     "Wolves League Theme",
     "dark theme",
-    "black theme",
     "dark",
-    "black",
     "red"
   ],
   "contributes": {
@@ -37,11 +35,6 @@
         "label": "Wolves League Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/wolves-league-dark-color-theme.json"
-      },
-      {
-        "label": "Wolves League Black",
-        "uiTheme": "vs-dark",
-        "path": "./themes/wolves-league-black-color-theme.json"
       }
     ]
   }

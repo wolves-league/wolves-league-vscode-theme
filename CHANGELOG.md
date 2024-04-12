@@ -1,5 +1,10 @@
 # Change Log
 
+## [3.0.0] - 2024-04-12
+
+- Complete overhaul with darker grays, new colors and improved syntax highlighting
+- Removes "Black" variant
+
 ## [2.3.0] - 2023-12-03
 
 - Adds Activity Bar border

@@ -7,19 +7,10 @@
 
 ---
 
-Dark gray and black theme with red as accent color.
-
-### **If you like this theme, please consider evaluating it in the Visual Studio Marketplace**
-
-## Colors and variants
-
-There are 2 variants:
-
-- **Dark** - Dark gray background
-- **Black** - Pure black background
+### Dark gray theme with red as accent color.
 
 ![Wolves League Dark Theme](https://raw.githubusercontent.com/WolvesLeague/wolves-league-vscode-theme/main/images/wolves-league-dark-screenshot.png)
-![Wolves League Black Theme](https://raw.githubusercontent.com/WolvesLeague/wolves-league-vscode-theme/main/images/wolves-league-black-screenshot.png)
+**If you like this theme, please consider evaluating it in the Visual Studio Marketplace**
 
 ## Issues and suggestions
 
